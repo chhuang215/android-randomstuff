@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_minusone_button.xml",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\custom_minusone_button.xml"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_smiley.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\my_smiley.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_minus_highlight.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_minus_highlight.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_plus.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_plus.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_plus_select.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_plus_select.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_minus.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_minus.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_plus_highlight.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_plus_highlight.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_plusone_button.xml",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\custom_plusone_button.xml"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_minus_select.png",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\drawable\\button_minus_select.png"
+    }
+]

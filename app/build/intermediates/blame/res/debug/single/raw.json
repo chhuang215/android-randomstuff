@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\raw\\evil_laugh.mp3",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\raw\\evil_laugh.mp3"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sound_clap.mp3",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\raw\\sound_clap.mp3"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\raw\\victory.mp3",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\raw\\victory.mp3"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hole_punch.mp3",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\raw\\hole_punch.mp3"
+    },
+    {
+        "merged": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\build\\intermediates\\res\\merged\\debug\\raw\\electric_razor.mp3",
+        "source": "D:\\Users\\chhuang\\workspace\\StudioProjects\\RandomStuff\\app\\src\\main\\res\\raw\\electric_razor.mp3"
+    }
+]

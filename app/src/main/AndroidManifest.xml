@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.chhuang.ch"
+    android:versionCode="1"
+    android:versionName="1.0"
+    tools:ignore="HardcodedDebugMode" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="10" />
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher" >
+        <activity
+            android:name=".Welcome"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainList"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.chhuang.ch.MENU" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.chhuang.ch.ABOUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Preferences"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.chhuang.ch.PREFS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SimpleCounter"
+            android:label="@string/title_simpleCounter"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".TextPlay"
+            android:label="@string/title_textPlay" >
+        </activity>
+        <activity
+            android:name=".Email"
+            android:label="@string/title_hatemail" >
+        </activity>
+        <activity
+            android:name=".Camera"
+            android:label="@string/title_camera" >
+        </activity>
+        <activity
+            android:name=".SimpleQuestion"
+            android:configChanges="orientation"
+            android:label="@string/title_simpleQuestion" >
+        </activity>
+        <activity
+            android:name=".Questions"
+            android:configChanges="orientation"
+            android:label="@string/title_simpleQuestion" >
+        </activity>
+        <activity
+            android:name=".Graphics"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".GFXSurface"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name=".SoundStuff"
+            android:label="" >
+        </activity>
+        <activity android:name=".SliderExample" >
+        </activity>
+        <activity android:name=".TabsExample" >
+        </activity>
+        <activity
+            android:name=".SimpleBrowser"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity android:name=".FlipperExample" >
+        </activity>
+        <activity android:name=".DataSharedPrefsExample" >
+        </activity>
+        <activity android:name=".InternalDataExample" >
+        </activity>
+        <activity android:name=".ExternalDataExample" >
+        </activity>
+    </application>
+
+</manifest>

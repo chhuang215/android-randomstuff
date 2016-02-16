@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Users\chhuang\workspace\StudioProjects\RandomStuff\app\src\main\assets"><file name="BROADW.TTF" path="D:\Users\chhuang\workspace\StudioProjects\RandomStuff\app\src\main\assets\BROADW.TTF"/><file name="RAVIE.TTF" path="D:\Users\chhuang\workspace\StudioProjects\RandomStuff\app\src\main\assets\RAVIE.TTF"/></source></dataSet><dataSet config="debug"><source path="D:\Users\chhuang\workspace\StudioProjects\RandomStuff\app\src\debug\assets"/></dataSet></merger>

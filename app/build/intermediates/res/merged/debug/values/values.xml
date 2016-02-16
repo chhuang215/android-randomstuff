@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="list">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+    </string-array>
+    <string name="NO_NAME">NO_NAME</string>
+    <string name="app_name">RandomStuff</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_hatemail">HateMail</string>
+    <string name="title_simpleCounter">SimpleCounter</string>
+    <string name="title_simpleQuestion">SimpleQuestion</string>
+    <string name="title_textPlay">TextPlay</string>
+</resources>
